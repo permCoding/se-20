@@ -23,6 +23,7 @@ namespace WFA_mm
         private void FormMM_MouseMove(object sender, MouseEventArgs e)
         {
             this.Text = e.X.ToString() + ':' + e.Y.ToString();
+			// this.Text = String.Format("X = {0}; Y = {1}", e.X, e.Y);
         }
     }
 	
