@@ -12,7 +12,18 @@
 * partial class
 * class и new
 * class и объект
+* перегрузка методов
 
 Практика:  
 * оценка времени работы программы
 * найти строку в файле: линейный и бинарный поиск
+
+
+
+Файл со списком слов русского языка:  
+[https://pcoding.ru/txt/words.txt](https://pcoding.ru/txt/words.txt)  
+
+```
+загрузим файл:	
+new WebClient().DownloadFile(url_file, Path.GetFileName(url_file));
+```
