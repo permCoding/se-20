@@ -1,16 +1,19 @@
-# se-20
-software-engineering
+### se-20  
+### software-engineering  
+### Программная инженерия ООП | C#  
+
+
+
+
+
+
+
+
 
 ---  
 
-
-
-
-
-
-
-
 ** список учебных видео по данной дисцилине:**  
+- будет изменяться, дополняться...  
 __общетеоретические__  
 [static в C#](https://youtu.be/Lh6b6NsWFys)   
 [Освободите Вилли - оператор using в C#](https://youtu.be/VDSOvAuhwlo)   
