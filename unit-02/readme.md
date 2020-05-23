@@ -72,6 +72,7 @@ step-06 ...
 - в отдельном репозитории (позже будет удалён), который делали прямо на Лекции с последовательной фиксацией всех шагов коммитами - [Points](https://github.com/permCoding/Points)
 ![rep1.jpg](rep1.jpg)    
 ![rep2.jpg](rep2.jpg)  
+![rep3.jpg](rep3.jpg)  
   
   
     
